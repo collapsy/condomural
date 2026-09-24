@@ -28,5 +28,6 @@ Criar uma fonte oficial, organizada, persistente e fácil de consultar para info
 A documentação aprovada do produto é mantida em `docs/` e deve ser tratada como fonte canônica das decisões de produto e arquitetura.
 
 - `docs/01-product-definition.md` — Etapa 1: Definição do Produto
+- `docs/02-users-and-permissions.md` — Etapa 2: Usuários e Permissões
 
 Decisões aprovadas devem ser consolidadas no repositório para evitar divergência entre conversas, prompts, documentação e implementação.
